@@ -1,0 +1,8 @@
+MURCIAJOBS V2
+
+Sube index.html, logo-murciajobs.png y la carpeta blog/ al nivel principal del repositorio.
+La carpeta blog contiene su propio index.html.
+El archivo PLANTILLA_ARTICULO_NO_PUBLICAR.html.txt es un borrador local para futuros artículos: no lo subas hasta sustituir los textos de ejemplo y guardarlo como .html dentro de blog/.
+Los tres puestos originales y sus enlaces se mantienen en index.html; revisa que sigan vigentes antes de promocionarlos.
+La portada del blog muestra categorías y anuncia que los artículos llegarán próximamente; no finge artículos publicados.
+Cuando haya artículos reales, añadiremos sus tarjetas y enlaces a ambas portadas.
